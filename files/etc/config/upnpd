@@ -6,7 +6,7 @@ config upnpd 'config'
 	option port '5000'
 	option upnp_lease_file '/var/upnp.leases'
 	option enabled '1'
-	option uuid 'f12de5af-8659-482a-b435-e68e1df1affa'
+	option uuid 'c8a4d4e9-1b8e-4f17-b954-81d3aaa89e3f'
 
 config perm_rule
 	option action 'allow'
