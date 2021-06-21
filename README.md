@@ -9,6 +9,7 @@ Build OpenWrt using GitHub Actions
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 https://github.com/lzjh8/openwrt
+
 https://github.com/coolsnowwolf/openwrt/
 
 https://github.com/coolsnowwolf/lede
