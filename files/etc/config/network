@@ -35,5 +35,5 @@ config interface 'VLAN'
 	option delegate '0'
 	option ipaddr '192.168.0.2'
 	option netmask '255.255.255.0'
-	option gateway '192.168.0.255'
+	option gateway '192.168.0.1'
 
