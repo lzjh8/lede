@@ -16,6 +16,8 @@ https://github.com/coolsnowwolf/lede
 
 https://github.com/fw876/helloworld
 
+https://github.com/xiaorouji/openwrt-passwall
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
