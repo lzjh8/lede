@@ -14,6 +14,8 @@ https://github.com/coolsnowwolf/openwrt/
 
 https://github.com/coolsnowwolf/lede
 
+https://github.com/Lienol/openwrt
+
 https://github.com/fw876/helloworld
 
 https://github.com/xiaorouji/openwrt-passwall
